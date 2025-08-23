@@ -1,4 +1,9 @@
-conda create -p venv python==3.12
-conda activate venv
-pip install ipykernel 
+ipykernel
 numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
